@@ -647,7 +647,7 @@ Under 11 U.S.C. Section 523(a)(2)(C), two types of recent credit card use are pr
 
 Luxury goods or services over $800 charged to a single creditor within 90 days before filing
 
-Cash advances over $1,100 within 70 days before filing
+Cash advances over $1,250 within 70 days before filing
 
 These create a rebuttable presumption of fraud. The creditor must file an adversary proceeding to enforce this - it does not happen automatically. And the presumption can be overcome if you can show the charges were for necessities or you intended to repay at the time.
 
@@ -871,7 +871,7 @@ Yes, all existing credit cards will be cancelled. However, you can typically obt
 
 Can I use my credit cards right before filing bankruptcy?
 
-You should not. Under 11 U.S.C. Section 523(a)(2)(C), luxury purchases over $800 within 90 days and cash advances over $1,100 within 70 days are presumed nondischargeable. Stop using credit cards as soon as you decide to file. Learn more about nondischargeable debts.
+You should not. Under 11 U.S.C. Section 523(a)(2)(C), luxury purchases over $900 within 90 days and cash advances over $1,250 within 70 days are presumed nondischargeable. Stop using credit cards as soon as you decide to file. Learn more about nondischargeable debts.
 
 How do I find a good bankruptcy attorney?
 
