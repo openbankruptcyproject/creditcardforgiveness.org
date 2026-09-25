@@ -1,23 +1,76 @@
-# Credit Card Forgiveness - Programs & Options [2026] - Creditcardforgiveness
-> Last updated: 2026-05-01
+# Credit Card Forgiveness - Programs & Options [2026]
+> Last updated: 2026-09-25
 
-> Is credit card forgiveness real? Hardship programs, settlement, 1099-C taxes, and bankruptcy discharge. Honest 2026 comparison.
+> What is credit card forgiveness program? How does credit card forgiveness work? Is credit card debt forgiveness real? Can credit card debt be forgiven?
 
 ## About
 creditcardforgiveness.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Credit Card Debt: Bankruptcy vs. Debt Settlement - Which Is Better? - Creditcardforgiveness: https://creditcardforgiveness.org/bankruptcy-vs-settlement.html
-- How Chapter 13 Handles Credit Card Debt - Creditcardforgiveness: https://creditcardforgiveness.org/chapter-13.html
+- Credit Card Debt: Bankruptcy vs. Debt Settlement - Which Is Better?: https://creditcardforgiveness.org/bankruptcy-vs-settlement.html
+- Credit Card Debt in Chapter 13 [2026]: How Unsecured Cards Are Treated in a 3 to 5 Year Plan: https://creditcardforgiveness.org/chapter-13.html
 - How Chapter 7 Discharges Credit Card Debt - Creditcardforgiveness: https://creditcardforgiveness.org/chapter-7.html
-- Credit Card Debt Forgiveness FAQ - Creditcardforgiveness: https://creditcardforgiveness.org/faq.html
+- Credit Card Debt Forgiveness FAQ [2026]: Settlement, Bankruptcy, and 1099-C Tax Consequences: https://creditcardforgiveness.org/faq.html
 - Credit Card Hardship Programs - Creditcardforgiveness: https://creditcardforgiveness.org/hardship-programs.html
-- How Much Credit Card Debt Makes Forgiveness or Bankruptcy Worth It - Creditcardforgiveness: https://creditcardforgiveness.org/how-much-debt.html
-- Credit Card Forgiveness - Programs & Options [2026] - Creditcardforgiveness: https://creditcardforgiveness.org/
-- Credit Card Debt Forgiveness Scams - How to Spot Them - Creditcardforgiveness: https://creditcardforgiveness.org/scams.html
-- Debt Settlement vs Bankruptcy for Credit Card Debt - Creditcardforgiveness: https://creditcardforgiveness.org/settlement-vs-bankruptcy.html
-- 1099-C: Tax Implications of Credit Card Debt Forgiveness - Creditcardforgiveness: https://creditcardforgiveness.org/tax-implications.html
+- How Much Credit Card Debt Makes Forgiveness or Bankruptcy Worth It: https://creditcardforgiveness.org/how-much-debt.html
+- Credit Card Forgiveness - Programs & Options: https://creditcardforgiveness.org/
+- Credit Card Debt Forgiveness Scams [2026]: Red Flags and Consumer Protections Under 11 USC 526: https://creditcardforgiveness.org/scams.html
+- Debt Settlement vs Bankruptcy for Credit Cards [2026]: 1099-C Tax, Credit Impact, and Total Cost: https://creditcardforgiveness.org/settlement-vs-bankruptcy.html
+- 1099-C Tax Implications of Credit Card Forgiveness [2026]: 26 USC 108 Insolvency Exclusion: https://creditcardforgiveness.org/tax-implications.html
 - Privacy Policy: https://creditcardforgiveness.org/privacy.html
+- About creditcardforgiveness.org: https://creditcardforgiveness.org/about.html
+- Credit Card Forgiveness in Alabama [2026]: Settlement, Licensing, 1099-C, AL Rules: https://creditcardforgiveness.org/states/alabama.html
+- Credit Card Forgiveness in Alaska [2026]: Settlement, Licensing, 1099-C, AK Rules: https://creditcardforgiveness.org/states/alaska.html
+- Credit Card Forgiveness in Arizona [2026]: Settlement, Licensing, 1099-C, AZ Rules: https://creditcardforgiveness.org/states/arizona.html
+- Credit Card Forgiveness in Arkansas [2026]: Settlement, Licensing, 1099-C, AR Rules: https://creditcardforgiveness.org/states/arkansas.html
+- Credit Card Forgiveness in California [2026]: Settlement, Licensing, 1099-C, CA Rules: https://creditcardforgiveness.org/states/california.html
+- Credit Card Forgiveness in Colorado [2026]: Settlement, Licensing, 1099-C, CO Rules: https://creditcardforgiveness.org/states/colorado.html
+- Credit Card Forgiveness in Connecticut [2026]: Settlement, Licensing, 1099-C, CT Rules: https://creditcardforgiveness.org/states/connecticut.html
+- Credit Card Forgiveness in Delaware [2026]: Settlement, Licensing, 1099-C, DE Rules: https://creditcardforgiveness.org/states/delaware.html
+- Credit Card Forgiveness in District of Columbia [2026]: Settlement, Licensing, 1099-C, DC Rules: https://creditcardforgiveness.org/states/district-of-columbia.html
+- Credit Card Forgiveness in Florida [2026]: Settlement, Licensing, 1099-C, FL Rules: https://creditcardforgiveness.org/states/florida.html
+- Credit Card Forgiveness in Georgia [2026]: Settlement, Licensing, 1099-C, GA Rules: https://creditcardforgiveness.org/states/georgia.html
+- Credit Card Forgiveness in Hawaii [2026]: Settlement, Licensing, 1099-C, HI Rules: https://creditcardforgiveness.org/states/hawaii.html
+- Credit Card Forgiveness in Idaho [2026]: Settlement, Licensing, 1099-C, ID Rules: https://creditcardforgiveness.org/states/idaho.html
+- Credit Card Forgiveness in Illinois [2026]: Settlement, Licensing, 1099-C, IL Rules: https://creditcardforgiveness.org/states/illinois.html
+- Credit Card Forgiveness by State: https://creditcardforgiveness.org/states/
+- Credit Card Forgiveness in Indiana [2026]: Settlement, Licensing, 1099-C, IN Rules: https://creditcardforgiveness.org/states/indiana.html
+- Credit Card Forgiveness in Iowa [2026]: Settlement, Licensing, 1099-C, IA Rules: https://creditcardforgiveness.org/states/iowa.html
+- Credit Card Forgiveness in Kansas [2026]: Settlement, Licensing, 1099-C, KS Rules: https://creditcardforgiveness.org/states/kansas.html
+- Credit Card Forgiveness in Kentucky [2026]: Settlement, Licensing, 1099-C, KY Rules: https://creditcardforgiveness.org/states/kentucky.html
+- Credit Card Forgiveness in Louisiana [2026]: Settlement, Licensing, 1099-C, LA Rules: https://creditcardforgiveness.org/states/louisiana.html
+- Credit Card Forgiveness in Maine [2026]: Settlement, Licensing, 1099-C, ME Rules: https://creditcardforgiveness.org/states/maine.html
+- Credit Card Forgiveness in Maryland [2026]: Settlement, Licensing, 1099-C, MD Rules: https://creditcardforgiveness.org/states/maryland.html
+- Credit Card Forgiveness in Massachusetts [2026]: Settlement, Licensing, 1099-C, MA Rules: https://creditcardforgiveness.org/states/massachusetts.html
+- Credit Card Forgiveness in Michigan [2026]: Settlement, Licensing, 1099-C, MI Rules: https://creditcardforgiveness.org/states/michigan.html
+- Credit Card Forgiveness in Minnesota [2026]: Settlement, Licensing, 1099-C, MN Rules: https://creditcardforgiveness.org/states/minnesota.html
+- Credit Card Forgiveness in Mississippi [2026]: Settlement, Licensing, 1099-C, MS Rules: https://creditcardforgiveness.org/states/mississippi.html
+- Credit Card Forgiveness in Missouri [2026]: Settlement, Licensing, 1099-C, MO Rules: https://creditcardforgiveness.org/states/missouri.html
+- Credit Card Forgiveness in Montana [2026]: Settlement, Licensing, 1099-C, MT Rules: https://creditcardforgiveness.org/states/montana.html
+- Credit Card Forgiveness in Nebraska [2026]: Settlement, Licensing, 1099-C, NE Rules: https://creditcardforgiveness.org/states/nebraska.html
+- Credit Card Forgiveness in Nevada [2026]: Settlement, Licensing, 1099-C, NV Rules: https://creditcardforgiveness.org/states/nevada.html
+- Credit Card Forgiveness in New Hampshire [2026]: Settlement, Licensing, 1099-C, NH Rules: https://creditcardforgiveness.org/states/new-hampshire.html
+- Credit Card Forgiveness in New Jersey [2026]: Settlement, Licensing, 1099-C, NJ Rules: https://creditcardforgiveness.org/states/new-jersey.html
+- Credit Card Forgiveness in New Mexico [2026]: Settlement, Licensing, 1099-C, NM Rules: https://creditcardforgiveness.org/states/new-mexico.html
+- Credit Card Forgiveness in New York [2026]: Settlement, Licensing, 1099-C, NY Rules: https://creditcardforgiveness.org/states/new-york.html
+- Credit Card Forgiveness in North Carolina [2026]: Settlement, Licensing, 1099-C, NC Rules: https://creditcardforgiveness.org/states/north-carolina.html
+- Credit Card Forgiveness in North Dakota [2026]: Settlement, Licensing, 1099-C, ND Rules: https://creditcardforgiveness.org/states/north-dakota.html
+- Credit Card Forgiveness in Ohio [2026]: Settlement, Licensing, 1099-C, OH Rules: https://creditcardforgiveness.org/states/ohio.html
+- Credit Card Forgiveness in Oklahoma [2026]: Settlement, Licensing, 1099-C, OK Rules: https://creditcardforgiveness.org/states/oklahoma.html
+- Credit Card Forgiveness in Oregon [2026]: Settlement, Licensing, 1099-C, OR Rules: https://creditcardforgiveness.org/states/oregon.html
+- Credit Card Forgiveness in Pennsylvania [2026]: Settlement, Licensing, 1099-C, PA Rules: https://creditcardforgiveness.org/states/pennsylvania.html
+- Credit Card Forgiveness in Rhode Island [2026]: Settlement, Licensing, 1099-C, RI Rules: https://creditcardforgiveness.org/states/rhode-island.html
+- Credit Card Forgiveness in South Carolina [2026]: Settlement, Licensing, 1099-C, SC Rules: https://creditcardforgiveness.org/states/south-carolina.html
+- Credit Card Forgiveness in South Dakota [2026]: Settlement, Licensing, 1099-C, SD Rules: https://creditcardforgiveness.org/states/south-dakota.html
+- Credit Card Forgiveness in Tennessee [2026]: Settlement, Licensing, 1099-C, TN Rules: https://creditcardforgiveness.org/states/tennessee.html
+- Credit Card Forgiveness in Texas [2026]: Settlement, Licensing, 1099-C, TX Rules: https://creditcardforgiveness.org/states/texas.html
+- Credit Card Forgiveness in Utah [2026]: Settlement, Licensing, 1099-C, UT Rules: https://creditcardforgiveness.org/states/utah.html
+- Credit Card Forgiveness in Vermont [2026]: Settlement, Licensing, 1099-C, VT Rules: https://creditcardforgiveness.org/states/vermont.html
+- Credit Card Forgiveness in Virginia [2026]: Settlement, Licensing, 1099-C, VA Rules: https://creditcardforgiveness.org/states/virginia.html
+- Credit Card Forgiveness in Washington [2026]: Settlement, Licensing, 1099-C, WA Rules: https://creditcardforgiveness.org/states/washington.html
+- Credit Card Forgiveness in West Virginia [2026]: Settlement, Licensing, 1099-C, WV Rules: https://creditcardforgiveness.org/states/west-virginia.html
+- Credit Card Forgiveness in Wisconsin [2026]: Settlement, Licensing, 1099-C, WI Rules: https://creditcardforgiveness.org/states/wisconsin.html
+- Credit Card Forgiveness in Wyoming [2026]: Settlement, Licensing, 1099-C, WY Rules: https://creditcardforgiveness.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
